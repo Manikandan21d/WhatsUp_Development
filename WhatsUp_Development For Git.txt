@@ -6,8 +6,10 @@ This is WhatsUP Code:
 
 2.Chat Screen Code
 
-3.Last Seen Code
+3.Last Seen Code 
 
 4.Attachments(Image,Audio,video)
+
+5.Hiding the Last Seen
 
   
