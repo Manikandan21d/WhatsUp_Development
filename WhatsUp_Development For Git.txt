@@ -12,4 +12,8 @@ This is WhatsUP Code:
 
 5.Hiding the Last Seen
 
+6.Adding The Audio call Feature
+
+7.Adding The Video call feature
+
   
